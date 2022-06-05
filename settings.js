@@ -2,7 +2,7 @@
 //If you want to recode, reupload
 //or copy the codes/script,
 //no credit? i will not take action immediately
-//© 2022 TJ Bot Inc. Doge Bot 
+//© 2022 Kanambo Inc. Doge Bot 
 //Thank you to Allah Almighty, Family and Myself
 //════════════════════════════//
 
@@ -20,18 +20,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923008354428']
-global.premium = ['923008354428']
-global.ownernumber = '923008354428'
-global.ownername = 'Đ₳Ɽ₭ ĐΔŘ€ 𝔻𝔼𝕍𝕀𝕃'
-global.botname = 'T҉J҉ 𝕌𝕃𝕋ℝ𝔸'
-global.footer = '𝕌𝕃𝕋ℝ𝔸 #bot.'
-global.ig = 'https://github.com/opbhai786'
-global.region = 'Pakistan, Punjab, Khanpur'
-global.sc = 'wa.me/+923008354428'
-global.myweb = 'https://chat.whatsapp.com/JiNuJqtoz8D5aiV1JPYQ71'
-global.packname = '𝕌𝕃𝕋ℝ𝔸 Bot'
-global.author = 'Đ₳Ɽ₭ ĐΔŘ€ 𝔻𝔼𝕍𝕀𝕃'
+global.owner = ['254114148625']
+global.premium = ['254114148625']
+global.ownernumber = '254114148625'
+global.ownername = 'Mr.Kanambo'
+global.botname = 'ℝ𝔸𝔼𝕃𝕂𝔸ℕ𝔸𝕄𝔹𝕆'
+global.footer = '★𝐊𝐍𝐀𝐌𝐁𝐎 𝐓𝐇𝐄 𝐁𝐎𝐓✰.'
+global.ig = 'https://github.com/Kanambp'
+global.region = 'Kenya , kisumu'
+global.sc = 'wa.me/+254114148625'
+global.myweb = 'https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU'
+global.packname = '𝕂𝕒𝕟𝕒𝕞𝕓𝕠 Bot'
+global.author = '𝕂𝔸ℕ𝔸𝕄𝔹𝕆'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
